@@ -1,0 +1,35 @@
+body{
+    background-color : #403d3d;
+}
+
+h1{
+    color: white;
+}
+
+label{
+    display: block;
+}
+
+.Pokemon{
+    color: white;
+    /* display: flex; */
+    /* margin-top: 20px; */
+    margin: 100px auto;
+    border: white 1px solid;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    display: inline-block;
+}
+
+.pokeimg{
+    width: 200px;
+    height: 200px;
+}
+
+.pokeinfo{
+    font-size: 30px;
+}
